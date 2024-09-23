@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.sl{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.h2{
+    text-align: center;
+}
+.up{
+    margin-top: 10rem;
+}
+.email{
+    height: 4vh;
+    width: 15rem;
+}
+.sign{
+    width: 15rem;
+}
+.p{
+    display: inline;
+}
+.hc{
+    text-align: center;
+}
+.cc{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.bc{
+    margin-left: 30px;
+}
